@@ -1,0 +1,672 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mille-fleur.fr" resolutions="1x" timestamp="1571114968254">
+  <folder name="css">
+    <file name="site_global.css" crc="4207308428"/>
+    <file name="information.css" crc="3898519797" ref="information"/>
+    <file name="nos-realisations.css" crc="376631439" ref="nos-realisations"/>
+    <file name="index.css" crc="332578192" ref="index"/>
+    <file name="mentions.css" crc="4127041649" ref="mentions"/>
+    <file name="contact.css" crc="355911885" ref="contact"/>
+    <file name="recommandations.css" crc="21365404" ref="recommandations"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>contact:phone>creations:phone>nos-tarifs-et-services:tablet>index:tablet>nos-realisations:tablet>information:tablet>recommandations:tablet>contact:index:mentions:nos-realisations:contact:information:recommandations"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>contact:phone>creations:phone>nos-tarifs-et-services:tablet>index:tablet>nos-realisations:tablet>information:tablet>recommandations:tablet>contact:index:mentions:nos-realisations:contact:information:recommandations"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>contact:phone>creations:phone>nos-tarifs-et-services:tablet>index:tablet>nos-realisations:tablet>information:tablet>recommandations:tablet>contact:index:mentions:nos-realisations:contact:information:recommandations"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>contact:phone>creations:phone>nos-tarifs-et-services:tablet>index:tablet>nos-realisations:tablet>information:tablet>recommandations:tablet>contact:index:mentions:nos-realisations:contact:information:recommandations"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="phone>index:phone>contact:phone>creations:phone>nos-tarifs-et-services"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:phone>contact:phone>creations:phone>nos-tarifs-et-services:tablet>nos-realisations:tablet>information:nos-realisations:information"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="phone>index:phone>contact:phone>creations:phone>nos-tarifs-et-services"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>contact:phone>creations:phone>nos-tarifs-et-services:tablet>index:tablet>nos-realisations:tablet>information:tablet>recommandations:tablet>contact:index:nos-realisations"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="phone>index:phone>contact:phone>creations:phone>nos-tarifs-et-services:index:nos-realisations"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>contact:phone>creations:phone>nos-tarifs-et-services:tablet>index:tablet>nos-realisations:tablet>information:tablet>recommandations:tablet>contact:index:mentions:nos-realisations:contact:information:recommandations"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>contact:phone>creations:phone>nos-tarifs-et-services:tablet>index:tablet>nos-realisations:tablet>information:tablet>recommandations:tablet>contact:index:mentions:nos-realisations:contact:information:recommandations"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="tablet>nos-realisations:tablet>information:nos-realisations:information"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="tablet>nos-realisations:tablet>information:nos-realisations:information"/>
+    <file name="touchswipe.js" crc="4066113679" ref="tablet>nos-realisations:tablet>information:nos-realisations:information"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:nos-realisations"/>
+  </folder>
+  <folder name="images">
+    <file name="1_1_wattellier_phone.jpg" crc="240724445" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bouquet_wattellier_phone.jpg" crc="292796669" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_wattellier_phone.jpg" crc="4116680162" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.jpg" crc="174641065" seo="true" ref="phone>index:tablet>index:tablet>nos-realisations:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="contact_55.jpg" crc="167823728" seo="true" ref="phone>contact:tablet>contact:contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="haut_2_phone.jpg" crc="3949031596" seo="true" ref="phone>creations">
+      <caption webpage="creations" alt=""/>
+    </file>
+    <file name="nos-bouquets_wattellier_phon.jpg" crc="4143582935" seo="true" ref="phone>creations">
+      <caption webpage="creations" alt=""/>
+    </file>
+    <file name="salle_wattellier_phon.jpg" crc="82472458" seo="true" ref="phone>creations">
+      <caption webpage="creations" alt=""/>
+    </file>
+    <file name="table_wattellier_phon.jpg" crc="3959844726" seo="true" ref="phone>creations">
+      <caption webpage="creations" alt=""/>
+    </file>
+    <file name="voiture_wattellier_phon.jpg" crc="464191941" seo="true" ref="phone>creations">
+      <caption webpage="creations" alt=""/>
+    </file>
+    <file name="1_1_wattellier_pad.jpg" crc="4098899884" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fleche_fushia.png" crc="225916428" seo="true" ref="tablet>index:index:nos-realisations">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="bouquet_wattellier_pad.jpg" crc="4294608376" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_wattellier_pad.jpg" crc="3977876708" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u16654-4.png" crc="4063745499" ref="tablet>index"/>
+    <file name="haut_page_2_1620_revu_pad.jpg" crc="4174831961" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="nos-bouquets_wattellier_pad.jpg" crc="3886403934" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="1_2015_pad.jpg" crc="3766022474" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="tablet>nos-realisations:tablet>information:nos-realisations:information"/>
+    <file name="2_img_1229_pad.jpg" crc="3983153955" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="3_pad_dscf1256.jpg" crc="3930834139" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="4_f0833471_crop.jpg" crc="3827742553" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="5_img_1209.jpg" crc="4281384564" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="6_img_1229_pad.jpg" crc="31997533" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="7_img_1376.jpg" crc="69367850" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="8_img_1418.jpg" crc="4282398775" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="9_img_1500.jpg" crc="3864516067" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="10_img_1823.jpg" crc="161503406" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="11_img_4530.jpg" crc="4048725089" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="12_img_6619.jpg" crc="3823912869" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="13_img_6975.jpg" crc="371210888" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="1_2015_pad-crop-u15687.jpg" crc="125916239" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="2_img_1229_pad-crop-u15764.jpg" crc="447283082" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="3_pad_dscf1256-crop-u15773.jpg" crc="366572015" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="4_f0833471_crop-crop-u15782.jpg" crc="4107464240" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="5_img_1209-crop-u15791.jpg" crc="4148689303" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="6_img_1229_pad-crop-u15800.jpg" crc="4253421799" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="7_img_1376-crop-u15809.jpg" crc="202707696" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="8_img_1418-crop-u15818.jpg" crc="3773539680" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="9_img_1500-crop-u15827.jpg" crc="478954223" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="10_img_1823-crop-u15836.jpg" crc="4214654364" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="11_img_4530-crop-u15845.jpg" crc="385874756" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="12_img_6619-crop-u15854.jpg" crc="3792472054" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="13_img_6975-crop-u15863.jpg" crc="63180502" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="tablet>nos-realisations:tablet>information:nos-realisations:information"/>
+    <file name="salle_wattellier_pad.jpg" crc="346153661" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="1_salle_pad.jpg" crc="3981768974" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="2_salle_2015_pad.jpg" crc="4173700717" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="3_salle_2015_pad.jpg" crc="309775398" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="4_salle_pad.jpg" crc="3800213257" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="5_salle_ipad.jpg" crc="4175526406" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="6_salle_ipad.jpg" crc="4247284327" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="7_salle_ipad.jpg" crc="3903189786" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="8_salle_pad.jpg" crc="100583700" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="9_sall_pad.jpg" crc="3966319699" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="10_salle_pad.jpg" crc="271865818" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="11_salle_pad.jpg" crc="3934478029" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="1_salle_pad61x45.jpg" crc="3926824206" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="2_salle_2015_pad61x45.jpg" crc="126715626" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="3_salle_2015_pad61x45.jpg" crc="4278599745" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="4_salle_pad61x45.jpg" crc="4029677981" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="5_salle_ipad68x45.jpg" crc="4018153509" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="6_salle_ipad68x45.jpg" crc="362236247" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="7_salle_ipad68x45.jpg" crc="156023959" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="8_salle_pad68x45.jpg" crc="73627699" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="9_sall_pad68x45.jpg" crc="3953040989" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="10_salle_pad61x45.jpg" crc="162215747" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="11_salle_pad61x45.jpg" crc="4023922933" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_wattellier_pad.jpg" crc="433741192" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_ipad_1.jpg" crc="3845398007" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_ipad_2.jpg" crc="3938313864" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_ipad_3.jpg" crc="4034529018" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_ipad_4.jpg" crc="58595228" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_ipad_5.jpg" crc="4071244" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_ipad_6.jpg" crc="3955913523" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_ipad_7.jpg" crc="3762279304" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_ipad_8.jpg" crc="389019842" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_ipad_9.jpg" crc="4172508245" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_ipad_10.jpg" crc="4266897403" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_ipad_168x45.jpg" crc="4067393521" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_ipad_268x45.jpg" crc="181543583" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_ipad_368x45.jpg" crc="3797383467" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_ipad_460x46.jpg" crc="104759356" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_ipad_561x45.jpg" crc="4058174576" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_ipad_661x45.jpg" crc="3830249703" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_ipad_761x45.jpg" crc="3903860996" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_ipad_861x45.jpg" crc="4238400586" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_ipad_961x45.jpg" crc="79978716" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_ipad_1061x45.jpg" crc="451731961" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voiture_wattellier_pad.jpg" crc="4217724042" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voit_pad_1.jpg" crc="461188423" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voit_pad_2.jpg" crc="3760412116" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voit_pad_3.jpg" crc="209303941" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voit_pad_4.jpg" crc="12136759" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voit_pad_5.jpg" crc="4041045776" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voit_pad_6.jpg" crc="476697139" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voit_pad_7.jpg" crc="3800971052" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voit_pad_161x45.jpg" crc="170771241" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voit_pad_260x46.jpg" crc="4265320326" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voit_pad_360x46.jpg" crc="42813294" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voit_pad_460x46.jpg" crc="130562379" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voit_pad_561x45.jpg" crc="434011543" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voit_pad_661x45.jpg" crc="3835694511" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voit_pad_768x45.jpg" crc="3816470565" seo="true" ref="tablet>nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="u16516-4.png" crc="4063745499" ref="tablet>nos-realisations"/>
+    <file name="tarif_2_pad.jpg" crc="4215101153" seo="true" ref="tablet>information">
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="tarif_2_pad226x160.jpg" crc="4137987182" seo="true" ref="tablet>information">
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="cliente.jpg" crc="268901810" seo="true" ref="tablet>information:information">
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="bouquet_detour.png" crc="373854601" seo="true" ref="tablet>information:information">
+      <caption webpage="information" alt=""/>
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="1_1_wattellier.jpg" crc="113330452" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bouquet_wattellier.jpg" crc="456395619" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_wattellier.jpg" crc="68200217" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u12054-4.png" crc="181392825" ref="index"/>
+    <file name="u12053-4.png" crc="4268286860" ref="index"/>
+    <file name="u12055-4.png" crc="518608912" ref="index"/>
+    <file name="haut_page_2_1620_revu.jpg" crc="61713502" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="nos-bouquets_wattellier.jpg" crc="255501355" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="2015-crop-u15315.jpg" crc="3964982514" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="dsc_1012_crop.jpg" crc="3892585037" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="dscf1256.jpg" crc="3974300937" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="f0833471_crop-crop-u15412.jpg" crc="44511241" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_1209.jpg" crc="4202452702" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_1229.jpg" crc="4231972009" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_1376.jpg" crc="3987573666" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_1418.jpg" crc="3790584751" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_1500.jpg" crc="4155740374" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_1823.jpg" crc="4152000383" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_4530.jpg" crc="3907164015" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_6619.jpg" crc="175661812" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_6975.jpg" crc="3983871468" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="201573x45.jpg" crc="333659734" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="dsc_1012_crop61x45.jpg" crc="3935101491" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="dscf125660x55.jpg" crc="135367998" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="f0833471_crop-crop-u15415.jpg" crc="215455299" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_120960x45.jpg" crc="3897246027" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_122960x45.jpg" crc="369404897" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_137660x45.jpg" crc="3976452981" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_141860x45.jpg" crc="3934402252" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_1500-crop-u15460.jpg" crc="52876848" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_182360x45.jpg" crc="4108815283" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_453061x45.jpg" crc="83793360" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_6619-crop-u15487.jpg" crc="3984753648" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_697561x45.jpg" crc="4047651839" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="salle_wattellier.jpg" crc="3785740932" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="1_salle_2015.jpg" crc="304058968" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="2_salle_2015.jpg" crc="4035874353" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="3_salle_2015.jpg" crc="4049094172" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="401859_189830047834402_1532664498_n-1-.jpg" crc="466826972" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="425925_10151186977883571_21150508_n-1-.jpg" crc="3995925013" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="545456_10151186975928571_905648590_n-1-.jpg" crc="497304935" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="563994_10151186978408571_1849750644_n-1-.jpg" crc="428365897" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="dsc_0330.jpg" crc="243434770" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="dsc_1087.jpg" crc="3793002416" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_1585.jpg" crc="3980388176" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_3660.jpg" crc="4142645823" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="1_salle_201561x45.jpg" crc="181892092" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="2_salle_201560x45.jpg" crc="3915407544" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="3_salle_201560x45.jpg" crc="4209774119" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="401859_189830047834402_1532664498_n-1-61x45.jpg" crc="4293752051" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="425925_10151186977883571_21150508_n-1-68x45.jpg" crc="272199305" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="545456_10151186975928571_905648590_n-1-68x45.jpg" crc="439274628" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="563994_10151186978408571_1849750644_n-1-68x45.jpg" crc="170933927" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="dsc_033068x45.jpg" crc="514896311" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="dsc_108768x45.jpg" crc="3767029351" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_158560x45.jpg" crc="4210109618" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_366061x45.jpg" crc="4047928298" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="table_wattellier.jpg" crc="392275259" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="_mg_9139.jpg" crc="276940419" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="305903_10150306818458571_815258570_8008203_2318552_n-1-.jpg" crc="175528477" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="dsc_0261.jpg" crc="4294304420" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_1256.jpg" crc="521101104" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_1310.jpg" crc="335810907" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_1974.jpg" crc="468470347" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_3940.jpg" crc="218840903" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_5650.jpg" crc="3823178053" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_6616.jpg" crc="192140740" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_6665.jpg" crc="3904777831" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="_mg_913968x45.jpg" crc="107517652" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="305903_10150306818458571_815258570_8008203_2318552_n-1-68x45.jpg" crc="324401242" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="dsc_026168x45.jpg" crc="382937720" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_1256-crop-u14323.jpg" crc="3784607128" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_131060x45.jpg" crc="494107392" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_197460x45.jpg" crc="3904621764" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_394061x45.jpg" crc="207270794" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_565061x45.jpg" crc="128094677" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_661661x45.jpg" crc="4197924064" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_666561x45.jpg" crc="398925578" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voiture_wattellier.jpg" crc="3864030925" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="fleche_fushia_1.png" crc="333014316" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_3764.jpg" crc="3877671203" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voit_10.jpg" crc="3801800410" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voiture_1.jpg" crc="4285587992" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voiture_4.jpg" crc="88711265" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voiture_5.jpg" crc="4231249750" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voiture_31.jpg" crc="4114031239" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voiture_wattellier2.jpg" crc="536570996" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="img_376461x45.jpg" crc="192130626" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voit_10-crop-u14559.jpg" crc="17517240" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voiture_1-crop-u14568.jpg" crc="4093006742" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voiture_4-crop-u14577.jpg" crc="499477170" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voiture_560x45.jpg" crc="4198031686" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voiture_3160x45.jpg" crc="484274130" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="voiture_wattellier68x45.jpg" crc="262403356" seo="true" ref="nos-realisations">
+      <caption webpage="nos-realisations" alt=""/>
+    </file>
+    <file name="tarif_1.jpg" crc="192574816" seo="true" ref="information">
+      <caption webpage="information" alt=""/>
+    </file>
+    <file name="tarif_1241x170.jpg" crc="4163819878" seo="true" ref="information">
+      <caption webpage="information" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="3873682881" ref="tablet>index"/>
+      <file name="nos-realisations.css" crc="3844642397" ref="tablet>nos-realisations"/>
+      <file name="information.css" crc="4124459652" ref="tablet>information"/>
+      <file name="recommandations.css" crc="506435977" ref="tablet>recommandations"/>
+      <file name="contact.css" crc="28701404" ref="tablet>contact"/>
+    </folder>
+    <file name="index.html" crc="3988037688" seo="true" mt="1571114912009" redirect="true"/>
+    <file name="nos-realisations.html" crc="3863771303" seo="true" mt="1424244316271" redirect="true"/>
+    <file name="information.html" crc="3993672954" seo="true" mt="1571114217511" redirect="true"/>
+    <file name="recommandations.html" crc="4037092965" seo="true" mt="1422879235167" redirect="true"/>
+    <file name="contact.html" crc="3781566349" seo="true" mt="1424244291315" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="contact.css" crc="86577421" ref="phone>contact"/>
+      <file name="nos-tarifs-et-services.css" crc="3880727617" ref="phone>nos-tarifs-et-services"/>
+      <file name="creations.css" crc="123442657" ref="phone>creations"/>
+      <file name="index.css" crc="4047578266" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4016292437" seo="true" mt="1571114937900" redirect="true"/>
+    <file name="contact.html" crc="139392237" seo="true" mt="1424244291233" redirect="true"/>
+    <file name="creations.html" crc="142119718" seo="true" mt="1424244305107" redirect="true"/>
+    <file name="nos-tarifs-et-services.html" crc="352034400" seo="true" mt="1422944023061" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="422633120" seo="true" mt="1571114304521" redirect="true"/>
+  <file name="mentions.html" crc="404264157" seo="true" mt="1422944388951" redirect="true"/>
+  <file name="nos-realisations.html" crc="4201647874" seo="true" mt="1424246825345" redirect="true"/>
+  <file name="contact.html" crc="4149558557" seo="true" mt="1424244291269" redirect="true"/>
+  <file name="information.html" crc="65309361" seo="true" mt="1571114217465" redirect="true"/>
+  <file name="recommandations.html" crc="4260097740" seo="true" mt="1422892993858" redirect="true"/>
+</manifest>
